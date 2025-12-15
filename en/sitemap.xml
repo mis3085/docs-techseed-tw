@@ -58,6 +58,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/"
     />
@@ -115,6 +120,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/shop/automatic-marking-14/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/automatic-marking-14/"
     />
     <xhtml:link
       rel="alternate"
@@ -178,6 +188,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/automotive-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/automotive-industry/"
     />
@@ -235,6 +250,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/applications/biotech-medical-pharma-industries/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/biotech-medical-pharma-industries/"
     />
     <xhtml:link
       rel="alternate"
@@ -298,6 +318,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/news-2/blog-4/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/news-2/blog-4/"
     />
@@ -355,6 +380,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/shop/chemicals-materials-15/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/chemicals-materials-15/"
     />
     <xhtml:link
       rel="alternate"
@@ -418,6 +448,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/company-profile/"
     />
@@ -475,6 +510,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/contactus/"
     />
     <xhtml:link
       rel="alternate"
@@ -538,6 +578,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/dust-collection-equipment-5/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/shop/dust-collection-equipment-5/"
     />
@@ -598,6 +643,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/electronics-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/electronics-industry/"
     />
@@ -648,13 +698,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ko"
+      href="https://smp.techseed-tw.com/ko/applications/emerging-energy-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://smp.techseed-tw.com/ja/applications/emerging-energy-industry/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://smp.techseed-tw.com/ko/applications/emerging-energy-industry/"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/emerging-energy-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -778,6 +833,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/filtration-system-12/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/shop/filtration-system-12/"
     />
@@ -835,6 +895,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/applications/food-and-beverage-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/food-and-beverage-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -958,6 +1023,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/glue-applicators-13/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/shop/glue-applicators-13/"
     />
@@ -1015,6 +1085,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/shop/highlight-products-16/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/highlight-products-16/"
     />
     <xhtml:link
       rel="alternate"
@@ -1078,6 +1153,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/indutrial-adhesives-46/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/shop/indutrial-adhesives-46/"
     />
@@ -1135,6 +1215,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/"
     />
     <xhtml:link
       rel="alternate"
@@ -1198,6 +1283,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/machinery-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/machinery-industry/"
     />
@@ -1255,6 +1345,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/applications/materials-and-chemical-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/materials-and-chemical-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -1318,6 +1413,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/medical-device-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/medical-device-industry/"
     />
@@ -1358,13 +1458,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://smp.techseed-tw.com/ar/applications/metal-products-industry/"
+      hreflang="hi"
+      href="https://smp.techseed-tw.com/hi/applications/metal-products-industry/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://smp.techseed-tw.com/hi/applications/metal-products-industry/"
+      hreflang="ar"
+      href="https://smp.techseed-tw.com/ar/applications/metal-products-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -1375,6 +1475,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/applications/metal-products-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/metal-products-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -1438,6 +1543,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/company-profile/milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/company-profile/milestones/"
     />
@@ -1495,6 +1605,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/news-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/news-2/"
     />
     <xhtml:link
       rel="alternate"
@@ -1558,6 +1673,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/optoelectronics-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/optoelectronics-industry/"
     />
@@ -1618,6 +1738,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/applications/plastics-and-rubber-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="https://smp.techseed-tw.com/en/applications/plastics-and-rubber-industry/"
     />
@@ -1675,6 +1800,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.techseed-tw.com/ko/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.techseed-tw.com/zh-tw/shop/"
     />
     <xhtml:link
       rel="alternate"
